@@ -3,7 +3,6 @@
 */
 
 #include <iostream>
-using namespace std;
 
 int main()
 {
@@ -13,16 +12,16 @@ int main()
 
     i = 1;
     j = 1;
-    cout << "enter a number : ";
-    cin >> number;
+    std::cout << "enter a number : ";
+    std::cin >> number;
     if (number < 0)
     {
-        cout << "there is no factorial for negative numbers\n";
+        std::cout << "there is no factorial for negative numbers\n";
         return 0;
     }
     if (number == 0)
     {
-        cout << "0\n";
+        std::cout << "0\n";
         return 0;
     }
     else
@@ -34,5 +33,5 @@ int main()
             
         }
     }
-    cout << i << "\n";
+    std::cout << i << "\n";
 }

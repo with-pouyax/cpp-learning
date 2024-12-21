@@ -3,7 +3,6 @@
 */
 
 #include<iostream>
-using namespace std;
 
 int main ()
 {
@@ -11,16 +10,16 @@ int main ()
     int j;
     int rows;
 
-    cout << "Enter number of rows: ";
-    cin >> rows;
+    std::cout << "Enter number of rows: ";
+    std::cin >> rows;
 
     for (i = 1; i < rows; i++)
     {
         for (j = 0; j < i; j++)
         {
-            cout << "*";
+            std::cout << "*";
         }
-        cout << endl;
+        std::cout << std::endl;
     }
     return 0;
 }

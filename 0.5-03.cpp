@@ -3,7 +3,6 @@
 */
 
 #include <iostream>
-using namespace std;
 
 int main()
 {
@@ -11,11 +10,11 @@ int main()
     int j;
     
     j = 0;
-    cout << "enter a number : ";
-    cin >> i;
+    std::cout << "enter a number : ";
+    std::cin >> i;
     while (j <= i)
     {
-        cout <<  j << "\n";
+        std::cout <<  j << "\n";
         j++;
     }
     return (0);

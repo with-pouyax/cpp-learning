@@ -3,7 +3,6 @@
 */
 
 #include <iostream>
-using namespace std;
 
 int main()
 {
@@ -13,7 +12,7 @@ int main()
     do
     {
         if (i % 2 == 0)
-            cout << i << " ";
+            std::cout << i << " ";
         i++;
     }
     while (i <= 50);
