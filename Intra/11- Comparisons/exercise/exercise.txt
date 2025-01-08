@@ -1,0 +1,50 @@
+Task: Implement and Test a C++ Program for Object Comparison
+Objective:
+The goal of this task is to test your understanding of C++ class constructors, destructors, member functions, pointers, and comparison logic. By the end of the task, you should be able to implement a class and use its member functions to compare two instances of the class for physical and structural equality.
+
+Instructions:
+Create a C++ Class:
+
+Create a class called Sample with the following:
+A private member variable _foo of type int.
+A constructor that takes an integer parameter v and initializes _foo with v.
+A destructor that prints a message when it is called.
+A getFoo method to return the value of _foo.
+A compare method to compare the _foo value of the current instance with another instance of Sample.
+Implement Physical and Structural Comparison:
+
+Physical comparison: Compare the memory addresses of two Sample objects to determine if they are physically the same instance.
+Structural comparison: Use the compare function to check if two Sample objects have the same _foo value, even if they are different instances.
+Write the Main Function:
+
+Create two instances of the Sample class with the same _foo value and compare them.
+Use physical comparison to determine if the two instances are the same object.
+Use structural comparison to check if the two instances are equal in value.
+Expected Output: Your program should:
+
+Print whether two objects are physically equal or not.
+Print whether two objects are structurally equal or not.
+Example:
+Sample Output:
+plaintext
+Copy code
+Constructor called
+Constructor called
+instance1 and instance1 are physically equal
+instance1 and instance2 are not physically equal
+instance1 and instance1 are structurally equal
+instance1 and instance2 are structurally equal
+Destructor called
+Destructor called
+
+Tips:
+Use pointers to pass objects to the compare function.
+Review the difference between physical equality (memory addresses) and structural equality (values).
+Make sure to properly use the this keyword and the -> operator for member access in pointers.
+Follow the best practices for class design (e.g., encapsulate member variables as private and use getter functions).
+Deliverables:
+Submit the source files:
+sample.class.hpp: Header file defining the Sample class.
+sample.class.cpp: Implementation file for the Sample class.
+main.cpp: Main file to demonstrate the functionality of the Sample class.
+Ensure your program compiles and runs without errors.
