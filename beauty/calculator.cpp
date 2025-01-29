@@ -5,7 +5,7 @@ int main ()
     float num1, num2;
     char operation;
 
-    std::cout << "**pouya's calculator**"<< "\n";
+    std::cout << "**pouya's calculator**" << "\n";
     std::cin >> num1 >> operation >> num2;
 
     switch (operation)
