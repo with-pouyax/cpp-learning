@@ -13,9 +13,9 @@ int main()
     std::cout << "please enter your guess: " << std::endl;
     std::cin >> guestUserNum;
 
-    if (hotUserNum == guestUserNum)
+    /* if (hotUserNum == guestUserNum)
         std::cout << "correct";
     else
-        std::cout << "failed";
-
+        std::cout << "failed"; */   
+    (hotUserNum == guestUserNum)? std::cout << "correct"<< std::endl: std::cout << "failed" << std::endl;
 }
