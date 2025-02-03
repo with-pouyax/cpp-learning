@@ -1,7 +1,7 @@
 # 🚀 Learn C++ - The Totally Serious Journey™
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRmdHR6aWx6MTRnOXg2cHlqZmxjcjlxemRjeGxpOG44bWQ2c3lyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Fun coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRmdHR6aWx6MTRnOXg2cHlqZmxjcjlxemRjeGxpOG44bWQ2c3lyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Fun coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZhMDdrbTI5ZWZrc29veGRsaTB5dDg4djQ0NzA4NXZnMXYzc20wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dYmJ6Buo3lYY/giphy.gif)">
 </div>
 
 ## 😎 **Why Does This Repo Exist?**
