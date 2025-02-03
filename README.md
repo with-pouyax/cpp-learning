@@ -1,7 +1,7 @@
 # 🚀 Learn C++ - My C++ Journey
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="500" alt="Funny coding GIF">
+  <[img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="500" alt="Funny coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZhMDdrbTI5ZWZrc29veGRsaTB5dDg4djQ0NzA4NXZnMXYzc20wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dYmJ6Buo3lYY/giphy.gif)">
 </div>
 
 Welcome to my **C++ learning journey**! This repository contains small **code snippets, exercises, and notes** I create while learning **C++**.
